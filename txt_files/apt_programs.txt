@@ -1,0 +1,11 @@
+qbittorrent
+linux-headers-$(uname -r)
+gnome-disk-utility
+lsb-release
+
+
+
+
+
+
+
